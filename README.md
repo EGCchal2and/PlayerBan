@@ -1,0 +1,2 @@
+# PlayerBan
+simple player ban
